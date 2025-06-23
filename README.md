@@ -31,4 +31,4 @@ I am saving all my practice work here as I learn React step-by-step. This is gre
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/Learn_React_With_SUMIT.git
+   https://github.com/Khalidgithub2020331007/Learn_React_With_SUMIT.git
